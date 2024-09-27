@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bg
+drawable dice1
+drawable dice2
+drawable dice3
+drawable dice4
+drawable dice5
+drawable dice6
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button_ActMain
+id imageView
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string roll_ActMain
+style Base.Theme.Lkjh
+style Theme.Lkjh
+xml backup_rules
+xml data_extraction_rules
